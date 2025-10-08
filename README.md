@@ -1,7 +1,7 @@
 # C-Blend – Progetto UXD
 
 **Studente:** Riccardo Imani Noobar  
-**Corso:** Informatica per la Comunicazione Digitale, Università di Camerino  
+**Corso:** Informatica per la Comunicazione Digitale, Università di Camerino. Esame di User Experience Design
 **Anno Accademico:** 2023/2024  
 **Progetto:** Gestione Calendario ed Attività – C-Blend, l’Organizzazione Intelligente
 
